@@ -6,7 +6,6 @@
 
 ##  **Llenguatges de Programació**
 - Python 🐍
-- JavaScript ⚙️
 - PHP 🌐
 - SQL 🗄️
 
@@ -16,4 +15,3 @@
 - HTML 📄
 - CSS 🎨
 - XML 📑
-- XSLT 🔄
