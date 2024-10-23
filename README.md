@@ -15,8 +15,3 @@ I have knowledge in Python, PHP, Javascript, HTML, Tailwind CSS, and Bootstrap. 
 ### Other tools I use
 | <div><img src="https://skillicons.dev/icons?i=vscode" alt="Vscode" /> <p>Vscode</p> </div> | <div><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ" /> <p>IntelliJ</p> </div> | <div><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" /> <p>PyCharm</p> </div> | <div><img src="https://skillicons.dev/icons?i=phpstorm" alt="PhpStorm" /> <p>PhpStorm</p> </div> |
 | --- | --- | --- | --- |
-
-
-<p align="center">
-  <img src="hhttps://i.pinimg.com/originals/fe/a5/33/fea5336ece9573d235870d51b8d28e7a.gif" alt="Cat Gif" />
-</p>
