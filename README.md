@@ -4,7 +4,7 @@
 
 I have knowledge in Python, PHP, Javascript, HTML, Tailwind CSS, and Bootstrap. I'm currently learning Kotlin for Android Studio, Java, Laravel, Javascript and Vue. The tools I use include Visual Studio Code and JetBrains tools.
 
-### What I know
+### I know
 | <div><img src="https://skillicons.dev/icons?i=python" alt="Python" /> <p>Python</p> </div> | <div><img src="https://skillicons.dev/icons?i=php" alt="PHP" /> <p>PHP</p> </div> | <div><img src="https://skillicons.dev/icons?i=js" alt="Javascript" /> <p>Javascript</p> </div> | <div><img src="https://skillicons.dev/icons?i=html" alt="HTML" /> <p>HTML</p> </div> | <div><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" /> <p>Tailwind</p> </div> | 
 | --- | --- | --- | --- | --- |
 
