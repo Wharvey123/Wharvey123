@@ -9,7 +9,7 @@ I have knowledge in Python, PHP, Javascript, HTML, Tailwind CSS, and Bootstrap. 
 | --- | --- | --- | --- | --- |
 
 ### I'm learning
-| <div><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <p>Kotlin</p> </div> | <div><img src="https://skillicons.dev/icons?i=java" alt="Java" /> <p>Java</p> </div> | <div><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /> <p>Laravel</p> </div> | <div><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /> <p>Vue</p> </div>
+| <div><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /> <p>Kotlin</p> </div> | <div><img src="https://skillicons.dev/icons?i=java" alt="Java" /> <p>Java</p> </div> | <div><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /> <p>Laravel</p> </div> | <div><img src="https://skillicons.dev/icons?i=vue" alt="Vue" /> <p>Vue</p> </div>  |
 | --- | --- | --- | --- | --- |
 
 ### Other tools I use
