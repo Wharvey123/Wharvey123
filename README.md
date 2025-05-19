@@ -7,11 +7,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wharvey123&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wharvey123&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wharvey123&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+    </td>
+    <td align="right" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wharvey123&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
