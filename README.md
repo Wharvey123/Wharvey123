@@ -8,11 +8,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarveyGlover&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Harvey's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Wharvey123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Harvey's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarveyGlover&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wharvey123&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarveyGlover&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wharvey123&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
